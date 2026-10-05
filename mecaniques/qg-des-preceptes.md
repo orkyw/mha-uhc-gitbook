@@ -1,3 +1,9 @@
+---
+description: >-
+  L'événement se déclenche quand un Précepte tue Eri.
+icon: dungeon
+---
+
 # QG des Préceptes
 
 L'événement se déclenche quand un Précepte tue Eri. Sa mort est mise en attente pendant que les autres joueurs tentent de la sauver.
@@ -13,4 +19,6 @@ L'événement se déclenche quand un Précepte tue Eri. Sa mort est mise en atte
 | Zone capturée à temps | Eri ressuscite et le QG disparaît |
 | 6 minutes écoulées, ou plus aucun joueur hors Préceptes en vie | Eri est définitivement éliminée ; chaque Précepte en vie gagne +1 cœur permanent et +8 % de Force |
 
+{% hint style="info" %}
 La barre d'action des joueurs présents dans le QG affiche le temps restant, leur avancée dans le labyrinthe et la progression de la capture.
+{% endhint %}

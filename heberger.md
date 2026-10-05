@@ -1,3 +1,9 @@
+---
+description: >-
+  Configurer et lancer une partie quand on est hôte.
+icon: server
+---
+
 # Héberger une partie
 
 Toute la configuration se fait en jeu par l'hôte, c'est-à-dire un joueur qui possède le grade staff. Il n'y a pas de fichier de configuration à modifier.
@@ -28,7 +34,9 @@ Le menu affiche en permanence le nombre de rôles actifs et le nombre de joueurs
 | Mares de lave | 0 à 20 | 7 |
 | Champignons géants | Oui ou non | Oui |
 
+{% hint style="danger" %}
 La génération remplace tout le terrain de la zone au-dessus de la couche 48, sans retour possible, et prend plusieurs minutes.
+{% endhint %}
 
 ## Inventaire de départ (`!setinv`)
 
@@ -55,4 +63,6 @@ Un bot Discord accompagne le serveur pour organiser les parties.
 | `/confighost [salon]` | Choisit le salon où sont envoyées les annonces |
 | `/panel` | Panneau de contrôle du serveur, réservé aux administrateurs |
 
+{% hint style="info" %}
 La liste blanche du serveur est synchronisée automatiquement avec les gamertags des joueurs inscrits à la partie annoncée. Un joueur doit donc lier son gamertag puis s'inscrire au host pour pouvoir se connecter.
+{% endhint %}

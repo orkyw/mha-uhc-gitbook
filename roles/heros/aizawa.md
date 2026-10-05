@@ -1,14 +1,20 @@
+---
+description: >-
+  Efface les pouvoirs et les effets des autres joueurs
+icon: shield-halved
+---
+
 # Aizawa
 
-Camp : Héros · Groupe sanguin : B · 10 cœurs
+🟢 <mark style="color:green;">**Héros**</mark> · 🩸 Groupe sanguin **B** · ❤️ **10 cœurs**
 
-**Particularités**
+## ✨ Particularités
 
 - Agilité : une barre de 0 à 100 % qui commence à 0. Chaque coup porté à un joueur la remplit de 3 à 4 %, et elle descend de 1 % par seconde.
 - Vitesse permanente qui grandit avec l'agilité : 20 % à 0 d'agilité, 60 % à 100.
 - Au-dessus de 70 % d'agilité : Résistance 10 %.
 
-**Pouvoir actif : Effacement**
+## ⚡ Pouvoir actif : Effacement
 
 Clic droit pour passer du mode Simple au mode Ultime. Accroupi + clic droit pour utiliser le mode choisi.
 

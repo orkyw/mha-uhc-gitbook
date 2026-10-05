@@ -1,3 +1,9 @@
+---
+description: >-
+  Toutes les commandes du chat et les interfaces en jeu.
+icon: terminal
+---
+
 # Commandes et interfaces
 
 Toutes les commandes s'écrivent dans le chat et commencent par `!`. Elles ne sont jamais affichées aux autres joueurs.

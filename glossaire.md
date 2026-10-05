@@ -1,3 +1,9 @@
+---
+description: >-
+  Le vocabulaire du mode.
+icon: book
+---
+
 # Glossaire
 
 | Terme | Définition |

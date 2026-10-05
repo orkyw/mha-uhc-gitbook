@@ -1,13 +1,11 @@
+---
+description: >-
+  Les systèmes communs à tous les joueurs.
+icon: gears
+---
+
 # Mécaniques communes
 
 Ces systèmes s'appliquent à tous les joueurs, quel que soit leur rôle.
 
-* [Objets de pouvoir](objets-de-pouvoir.md)
-* [Effets en pourcentage](effets-en-pourcentage.md)
-* [Combat](combat.md)
-* [Pommes dorées](pommes-dorees.md)
-* [Alters éparpillés](alters-eparpilles.md)
-* [Yuei](yuei.md)
-* [QG des Préceptes](qg-des-preceptes.md)
-* [Marqueurs personnels](marqueurs-personnels.md)
-* [Lobby et carte](lobby-et-carte.md)
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Objets de pouvoir</strong></td><td>Chaque pouvoir actif est une étoile du Nether nommée, reçue en début de partie.</td><td><a href="objets-de-pouvoir.md">objets-de-pouvoir.md</a></td></tr><tr><td><strong>Effets en pourcentage</strong></td><td>Le mode remplace les effets de potion vanilla par des pourcentages qui se cumulent entre toutes les sources (rôle, pouvoirs, alters).</td><td><a href="effets-en-pourcentage.md">effets-en-pourcentage.md</a></td></tr><tr><td><strong>Combat</strong></td><td>Les dégâts des coups entre joueurs sont réduits à 70 % de leur valeur vanilla (61 % pour un coup critique), puis multipliés par la Force de l'attaquant et réduits par la Résistance de la cible.</td><td><a href="combat.md">combat.md</a></td></tr><tr><td><strong>Pommes dorées</strong></td><td>Manger une pomme dorée donne une absorption pendant 2 min 30.</td><td><a href="pommes-dorees.md">pommes-dorees.md</a></td></tr><tr><td><strong>Alters éparpillés</strong></td><td>Cinq alters apparaissent un par un pendant la partie, aux minutes 7, 15, 25, 35 et 45, dans un ordre aléatoire.</td><td><a href="alters-eparpilles.md">alters-eparpilles.md</a></td></tr><tr><td><strong>Yuei</strong></td><td>Le lycée Yuei apparaît sur la carte aux minutes 5, 15, 25 et 40, pendant 4 minutes à chaque fois, puis disparaît en rendant le terrain d'origine.</td><td><a href="yuei.md">yuei.md</a></td></tr><tr><td><strong>QG des Préceptes</strong></td><td>L'événement se déclenche quand un Précepte tue Eri.</td><td><a href="qg-des-preceptes.md">qg-des-preceptes.md</a></td></tr><tr><td><strong>Marqueurs personnels</strong></td><td>Avec !marqueur (ou !mark), chaque joueur peut poser un marqueur au-dessus de la tête des autres joueurs en vie, pour noter ses soupçons.</td><td><a href="marqueurs-personnels.md">marqueurs-personnels.md</a></td></tr><tr><td><strong>Lobby et carte</strong></td><td>Lobby : une île flottante construite par le staff, avec une arène pour la cérémonie du podium.</td><td><a href="lobby-et-carte.md">lobby-et-carte.md</a></td></tr></tbody></table>

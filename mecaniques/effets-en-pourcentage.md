@@ -1,3 +1,9 @@
+---
+description: >-
+  Le mode remplace les effets de potion vanilla par des pourcentages qui se cumulent entre toutes les sources (rôle, pouvoirs, alters).
+icon: percent
+---
+
 # Effets en pourcentage
 
 Le mode remplace les effets de potion vanilla par des pourcentages qui se cumulent entre toutes les sources (rôle, pouvoirs, alters). `!effects` affiche les valeurs actuelles du joueur.

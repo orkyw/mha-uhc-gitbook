@@ -1,10 +1,18 @@
+---
+description: >-
+  Sans pouvoir offensif : sa mort déclenche une résurrection ou le QG
+icon: shield-halved
+---
+
 # Eri
 
-Camp : Héros · Groupe sanguin : B · 10 cœurs
+🟢 <mark style="color:green;">**Héros**</mark> · 🩸 Groupe sanguin **B** · ❤️ **10 cœurs**
 
+{% hint style="info" %}
 Eri n'a aucun pouvoir actif. Tout son rôle tient à ce qui se passe quand elle meurt.
+{% endhint %}
 
-**Particularités**
+## ✨ Particularités
 
 - La première fois qu'un joueur qui n'est pas Précepte la tue, elle ressuscite et le pseudo de son tueur est révélé à toute la partie.
 - Si un Précepte la tue, elle n'est pas éliminée tout de suite : le QG des Préceptes s'active pendant 6 minutes.

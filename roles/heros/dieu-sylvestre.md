@@ -1,17 +1,23 @@
+---
+description: >-
+  Enferme une zone entière sous un dôme de bois
+icon: shield-halved
+---
+
 # Dieu Sylvestre
 
-Camp : Héros · Groupe sanguin : A · 10 cœurs
+🟢 <mark style="color:green;">**Héros**</mark> · 🩸 Groupe sanguin **A** · ❤️ **10 cœurs**
 
-**Particularités**
+## ✨ Particularités
 
 - Force 7 %.
 - Les blocs qu'il pose ne sont pas consommés.
 
-**Pouvoir passif : Bois**
+## 🌀 Pouvoir passif : Bois
 
 Commence à 100 %. Se recharge de 1 % toutes les 5 secondes quand aucun dôme n'est actif.
 
-**Pouvoir actif : Prison de Racines (sans temps de recharge)**
+## ⚡ Pouvoir actif : Prison de Racines (sans temps de recharge)
 
 Clic droit pour faire pousser un dôme de bois géant de 60 blocs de rayon autour de lui. Clic droit à nouveau pour le retirer.
 

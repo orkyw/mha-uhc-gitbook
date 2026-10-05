@@ -1,3 +1,9 @@
+---
+description: >-
+  Du lobby à la victoire : lancement, chronologie, mort et conditions de victoire.
+icon: list-check
+---
+
 # Déroulement d'une partie
 
 Une partie va du lobby à la victoire d'un seul camp : l'hôte règle la composition, lance la partie, chaque joueur reçoit un rôle secret, puis les camps s'affrontent jusqu'à ce qu'il n'en reste qu'un.
@@ -33,7 +39,9 @@ Une partie va du lobby à la victoire d'un seul camp : l'hôte règle la composi
 | 40 min | Dernière apparition de Yuei. |
 | 45 min | Cinquième et dernier alter. |
 
+{% hint style="info" %}
 Le cycle jour/nuit alterne toutes les 5 minutes pendant toute la partie, en commençant par le jour. Plusieurs rôles ont des effets qui dépendent du jour ou de la nuit.
+{% endhint %}
 
 ## Règles permanentes
 
@@ -53,7 +61,9 @@ Le cycle jour/nuit alterne toutes les 5 minutes pendant toute la partie, en comm
 4. Son rôle est retiré de la composition affichée par `!compo`.
 5. Le tueur gagne 1 kill, affiché sur son tableau de bord.
 
+{% hint style="info" %}
 Certains rôles peuvent annuler une mort (résurrection) ou la mettre en attente (voir Eri et le QG des Préceptes). Un spectateur peut se téléporter sur un joueur avec `!tp pseudo`.
+{% endhint %}
 
 ## Conditions de victoire
 
@@ -62,4 +72,6 @@ Certains rôles peuvent annuler une mort (résurrection) ou la mettre en attente
 | Il ne reste en vie que des joueurs d'un même camp (Héros, Vilains, Préceptes ou Duo Todoroki) et aucun Solitaire | Ce camp, y compris ses membres morts |
 | Il ne reste en vie qu'un seul Solitaire et personne d'autre | Ce Solitaire uniquement |
 
+{% hint style="success" %}
 La victoire est annoncée 6 secondes après la dernière mort, avec le classement des kills des gagnants et le top 5 des autres joueurs. Si le lobby est construit, une cérémonie de 15 secondes a lieu dans son arène : les 3 meilleurs tueurs montent sur le podium et les autres joueurs sont assis dans les gradins.
+{% endhint %}

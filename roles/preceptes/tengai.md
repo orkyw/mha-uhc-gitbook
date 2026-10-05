@@ -1,13 +1,19 @@
+---
+description: >-
+  Pose des barrières qui soignent, sur lui ou un allié
+icon: mask
+---
+
 # Tengai
 
-Camp : Préceptes · Groupe sanguin : A · 10 cœurs
+🟣 <mark style="color:purple;">**Préceptes**</mark> · 🩸 Groupe sanguin **A** · ❤️ **10 cœurs**
 
-**Particularités**
+## ✨ Particularités
 
 - Résistance 15 %.
 - Tant qu'il a moins de 6 cœurs, il récupère 0,5 cœur toutes les 6 secondes.
 
-**Pouvoir actif : Barrière (1x/3min sur lui, 1x/3min sur un allié)**
+## ⚡ Pouvoir actif : Barrière (1x/3min sur lui, 1x/3min sur un allié)
 
 - Clic droit : Tengai reçoit une barrière.
 - Accroupi + clic droit : l'allié à 20 blocs ou moins qui a le moins de vie reçoit une barrière.

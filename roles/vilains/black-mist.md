@@ -1,13 +1,19 @@
+---
+description: >-
+  Portails, téléportation de groupe et arène du Néant
+icon: skull
+---
+
 # Black Mist
 
-Camp : Vilains · Groupe sanguin : O · 10 cœurs
+🔴 <mark style="color:red;">**Vilains**</mark> · 🩸 Groupe sanguin **O** · ❤️ **10 cœurs**
 
-**Particularités**
+## ✨ Particularités
 
 - Hors du Néant, Faiblesse le jour.
 - Dans le Néant, Force 20 %, mais il ne peut utiliser ni Portail ni Attaque Surprise.
 
-**Missions**
+## 🎯 Missions
 
 Trois missions débloquent le Néant Supérieur (suivi avec `!missions`) :
 
@@ -17,7 +23,7 @@ Trois missions débloquent le Néant Supérieur (suivi avec `!missions`) :
 
 Néant Supérieur : le Néant s'ouvre dans une arène plus grande, où Black Mist a Force 20 %, Vitesse 40 % et Résistance 10 %.
 
-**Pouvoirs actifs**
+## ⚡ Pouvoirs actifs
 
 - Portail (1x/3min) : accroupi + clic droit pour poser un portail. Clic droit pour se téléporter au portail le plus proche. `!cleartp` supprime tous ses portails.
 - Attaque Surprise (1x/10min) : il choisit un joueur vivant ; lui et ses alliés proches (10 blocs) sont téléportés à 15 blocs de la cible.

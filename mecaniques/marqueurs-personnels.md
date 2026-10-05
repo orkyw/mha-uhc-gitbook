@@ -1,3 +1,9 @@
+---
+description: >-
+  Avec !marqueur (ou !mark), chaque joueur peut poser un marqueur au-dessus de la tête des autres joueurs en vie, pour noter ses soupçons.
+icon: location-dot
+---
+
 # Marqueurs personnels
 
 Avec `!marqueur` (ou `!mark`), chaque joueur peut poser un marqueur au-dessus de la tête des autres joueurs en vie, pour noter ses soupçons. Le joueur marqué est aussi entouré d'un contour de la même couleur.

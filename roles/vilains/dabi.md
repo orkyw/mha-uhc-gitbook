@@ -1,16 +1,22 @@
+---
+description: >-
+  Brûle ses cibles et les piège dans un dôme de magma
+icon: skull
+---
+
 # Dabi
 
-Camp : Vilains · Groupe sanguin : O · 10 cœurs
+🔴 <mark style="color:red;">**Vilains**</mark> · 🩸 Groupe sanguin **O** · ❤️ **10 cœurs**
 
-**Particularités**
+## ✨ Particularités
 
 - Au bout d'1 minute de jeu, il apprend si Shoto et Endeavor forment un duo.
 
-**Pouvoir passif : Flammes bleues**
+## 🌀 Pouvoir passif : Flammes bleues
 
 Activable et désactivable avec `!fire`. Les joueurs qu'il touche (épée ou arc) et ceux qui le touchent brûlent pendant 4 secondes sans pouvoir s'éteindre.
 
-**Pouvoir actif : Crémation (1x/4min)**
+## ⚡ Pouvoir actif : Crémation (1x/4min)
 
 Marque tous les joueurs ayant subi des dégâts de feu dans les 5 dernières secondes, puis crée un dôme de magma de 30 blocs de rayon dont personne ne peut sortir pendant 30 secondes.
 

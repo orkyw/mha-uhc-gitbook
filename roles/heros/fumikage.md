@@ -1,18 +1,24 @@
+---
+description: >-
+  Barre d'ombre et invocation de Dark Shadow
+icon: shield-halved
+---
+
 # Fumikage
 
-Camp : Héros · Groupe sanguin : AB · 10 cœurs
+🟢 <mark style="color:green;">**Héros**</mark> · 🩸 Groupe sanguin **AB** · ❤️ **10 cœurs**
 
-**Pouvoir passif : Barre d'ombre**
+## 🌀 Pouvoir passif : Barre d'ombre
 
 +1 par seconde sous les arbres ou la nuit, -1 par seconde le jour à découvert. Fumikage a une Force et une Résistance égales à un dixième de son ombre.
 
-**Pouvoirs actifs**
+## ⚡ Pouvoirs actifs
 
 - Dark Shadow (1x/4min) : invoque Dark Shadow tant qu'il reste de l'ombre (-1 par seconde). Remplace le passif : au-dessus de 5 cœurs, Force égale au quart de l'ombre ; en dessous, Résistance égale au tiers de l'ombre.
 - Black Ankh (1x/2min) : Dark Shadow actif requis. Jusqu'à la fin de Dark Shadow : Résistance égale au tiers de l'ombre et soin de 0,5 cœur toutes les 4 secondes.
 - Griffes du Crépuscule (1x/2min) : Dark Shadow actif requis. Lance un rayon : si un joueur est touché, Dark Shadow prend fin, Fumikage est téléporté sur lui, la cible subit 1 cœur et Fumikage est invulnérable 3 secondes.
 
-**Éveil**
+## 🌑 Éveil
 
 À son premier kill, Fumikage choisit un pouvoir supplémentaire :
 

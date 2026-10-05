@@ -1,8 +1,14 @@
+---
+description: >-
+  One For All à puissance réglable, peut devenir Solitaire
+icon: shield-halved
+---
+
 # Deku
 
-Camp : Héros (peut devenir Solitaire) · Groupe sanguin : O · 10 cœurs
+🟢 <mark style="color:green;">**Héros**</mark> (peut devenir Solitaire) · 🩸 Groupe sanguin **O** · ❤️ **10 cœurs**
 
-**Particularités**
+## ✨ Particularités
 
 - Connaît le pseudo d'un joueur qui est soit All Might, soit Bakugo.
 - Force 20 % pendant les 20 premières minutes de la partie.
@@ -11,7 +17,7 @@ Camp : Héros (peut devenir Solitaire) · Groupe sanguin : O · 10 cœurs
 - Si Ochaco est à moins de 30 blocs à ce moment-là, il reste Héros.
 - S'il est recruté par les Préceptes (`!manip`), il devient Solitaire uniquement à la mort du Précepte qui l'a tué.
 
-**Pouvoirs actifs**
+## ⚡ Pouvoirs actifs
 
 - Detroit Smash (1x/5min) : pendant 5 secondes, Deku inflige -50 % de dégâts mais chaque coup ajoute 1 point de charge. Il a ensuite 5 secondes pour frapper : ce coup inflige 0,5 cœur supplémentaire par point de charge.
 - One For All (1x/5min) : accroupi + clic droit pour changer de puissance.

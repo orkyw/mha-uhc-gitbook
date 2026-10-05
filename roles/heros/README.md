@@ -1,19 +1,9 @@
+---
+description: >-
+  Les rôles du camp Héros.
+icon: shield-halved
+---
+
 # Rôles Héros
 
-* [Aizawa](aizawa.md)
-* [All Might](all-might.md)
-* [Bakugo](bakugo.md)
-* [Cementoss](cementoss.md)
-* [Deku](deku.md)
-* [Denki](denki.md)
-* [Dieu Sylvestre](dieu-sylvestre.md)
-* [Eijiro](eijiro.md)
-* [Endeavor](endeavor.md)
-* [Eri](eri.md)
-* [Fat Gum](fat-gum.md)
-* [Fumikage](fumikage.md)
-* [Hawks](hawks.md)
-* [Mirio](mirio.md)
-* [Ochaco](ochaco.md)
-* [Recovery Girl](recovery-girl.md)
-* [Shoto](shoto.md)
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Aizawa</strong></td><td>Efface les pouvoirs et les effets des autres joueurs</td><td><a href="aizawa.md">aizawa.md</a></td></tr><tr><td><strong>All Might</strong></td><td>Formes temporaires très puissantes, en temps limité pour toute la partie</td><td><a href="all-might.md">all-might.md</a></td></tr><tr><td><strong>Bakugo</strong></td><td>Barre de sueur qui transforme les coups en explosions</td><td><a href="bakugo.md">bakugo.md</a></td></tr><tr><td><strong>Cementoss</strong></td><td>Accumule du ciment pour écraser, soulever ou enfermer une cible</td><td><a href="cementoss.md">cementoss.md</a></td></tr><tr><td><strong>Deku</strong></td><td>One For All à puissance réglable, peut devenir Solitaire</td><td><a href="deku.md">deku.md</a></td></tr><tr><td><strong>Denki</strong></td><td>Balise ses cibles à l'arc puis les foudroie</td><td><a href="denki.md">denki.md</a></td></tr><tr><td><strong>Dieu Sylvestre</strong></td><td>Enferme une zone entière sous un dôme de bois</td><td><a href="dieu-sylvestre.md">dieu-sylvestre.md</a></td></tr><tr><td><strong>Eijiro</strong></td><td>Durcissement : grosse Résistance qui se transforme en attaque</td><td><a href="eijiro.md">eijiro.md</a></td></tr><tr><td><strong>Endeavor</strong></td><td>Jauge de température et zones de feu, duo possible avec Shoto</td><td><a href="endeavor.md">endeavor.md</a></td></tr><tr><td><strong>Eri</strong></td><td>Sans pouvoir offensif : sa mort déclenche une résurrection ou le QG</td><td><a href="eri.md">eri.md</a></td></tr><tr><td><strong>Fat Gum</strong></td><td>Encaisse les coups pour les convertir en Force et Vitesse</td><td><a href="fat-gum.md">fat-gum.md</a></td></tr><tr><td><strong>Fumikage</strong></td><td>Barre d'ombre et invocation de Dark Shadow</td><td><a href="fumikage.md">fumikage.md</a></td></tr><tr><td><strong>Hawks</strong></td><td>Vole, exécute les joueurs bas en vie, infiltré chez les Vilains</td><td><a href="hawks.md">hawks.md</a></td></tr><tr><td><strong>Mirio</strong></td><td>Intangible et téléporté dans le dos de ses cibles</td><td><a href="mirio.md">mirio.md</a></td></tr><tr><td><strong>Ochaco</strong></td><td>Fait léviter les joueurs proches, liée à Deku</td><td><a href="ochaco.md">ochaco.md</a></td></tr><tr><td><strong>Recovery Girl</strong></td><td>Soigneuse du camp des Héros</td><td><a href="recovery-girl.md">recovery-girl.md</a></td></tr><tr><td><strong>Shoto</strong></td><td>Jauge de température entre glace et feu, duo possible avec Endeavor</td><td><a href="shoto.md">shoto.md</a></td></tr></tbody></table>

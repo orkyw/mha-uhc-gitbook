@@ -1,3 +1,9 @@
+---
+description: >-
+  Lobby : une île flottante construite par le staff, avec une arène pour la cérémonie du podium.
+icon: map
+---
+
 # Lobby et carte
 
 - Lobby : une île flottante construite par le staff, avec une arène pour la cérémonie du podium. Les joueurs y arrivent hors partie et y sont invulnérables.

@@ -1,8 +1,14 @@
+---
+description: >-
+  Duelliste qui ralentit ses cibles et ignore la Résistance
+icon: user-ninja
+---
+
 # Stain
 
-Camp : Solitaire · Groupe sanguin : B · 12 cœurs
+🟠 <mark style="color:orange;">**Solitaire**</mark> · 🩸 Groupe sanguin **B** · ❤️ **12 cœurs**
 
-**Particularités**
+## ✨ Particularités
 
 - Résistance 10 %.
 - Force 20 % la nuit.
@@ -11,12 +17,12 @@ Camp : Solitaire · Groupe sanguin : B · 12 cœurs
 - Possède Lame de Stain, une épée en diamant incassable Tranchant III.
 - Voit la vie des autres joueurs dans une jauge au-dessus de leur tête.
 
-**Pouvoirs passifs**
+## 🌀 Pouvoirs passifs
 
 - Lame de Stain : chaque coup donne Lenteur III pendant 2 secondes à la cible. L'épée a une charge de 100 % : chaque Lenteur en consomme 10 %, et elle se recharge doucement (de vide à pleine en 2 min 30).
 - Groupe sanguin (1x/3min) : avec `!gs`, il voit le groupe sanguin des joueurs à moins de 20 blocs.
 
-**Pouvoir actif : Coagulation (1x/2min)**
+## ⚡ Pouvoir actif : Coagulation (1x/2min)
 
 Le prochain joueur frappé reçoit Lenteur III. La durée dépend de son groupe sanguin.
 

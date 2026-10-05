@@ -1,3 +1,9 @@
+---
+description: >-
+  Cinq alters apparaissent un par un pendant la partie, aux minutes 7, 15, 25, 35 et 45, dans un ordre aléatoire.
+icon: dna
+---
+
 # Alters éparpillés
 
 Cinq alters apparaissent un par un pendant la partie, aux minutes 7, 15, 25, 35 et 45, dans un ordre aléatoire. Le premier joueur qui en extrait un gagne un pouvoir supplémentaire, quel que soit son rôle.
@@ -7,7 +13,9 @@ Cinq alters apparaissent un par un pendant la partie, aux minutes 7, 15, 25, 35 
 3. Pour l'extraire, il faut rester 10 secondes sur la structure, puis résoudre un calcul mental à 5 choix (addition, soustraction ou multiplication).
 4. Une mauvaise réponse oblige à rester de nouveau 10 secondes. Le premier qui réussit récupère l'alter et la structure disparaît.
 
+{% hint style="success" %}
 Chaque alter se recharge en 5 minutes. Deku en obtient une version améliorée. `!alters` affiche cette liste en jeu.
+{% endhint %}
 
 | Alter | Effet de base | Version de Deku |
 | --- | --- | --- |
