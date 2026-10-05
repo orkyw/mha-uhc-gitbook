@@ -2,9 +2,22 @@
 description: >-
   Configurer et lancer une partie quand on est hôte.
 icon: server
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Héberger une partie
+
+![Héberger une partie](.gitbook/assets/banners/heberger.jpg)
 
 Toute la configuration se fait en jeu par l'hôte, c'est-à-dire un joueur qui possède le grade staff. Il n'y a pas de fichier de configuration à modifier.
 

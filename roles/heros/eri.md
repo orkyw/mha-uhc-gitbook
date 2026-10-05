@@ -2,11 +2,26 @@
 description: >-
   Sans pouvoir offensif : sa mort déclenche une résurrection ou le QG
 icon: shield-halved
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Eri
 
-🟢 <mark style="color:green;">**Héros**</mark> · 🩸 Groupe sanguin **B** · ❤️ **10 cœurs**
+![Eri](../../.gitbook/assets/banners/roles-heros-eri.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🟢 <mark style="color:green;">**Héros**</mark> | 🩸 **B** | ❤️ **10** |
 
 {% hint style="info" %}
 Eri n'a aucun pouvoir actif. Tout son rôle tient à ce qui se passe quand elle meurt.

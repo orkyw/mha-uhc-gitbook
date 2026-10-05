@@ -2,9 +2,22 @@
 description: >-
   Du lobby à la victoire : lancement, chronologie, mort et conditions de victoire.
 icon: list-check
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Déroulement d'une partie
+
+![Déroulement d'une partie](.gitbook/assets/banners/regles.jpg)
 
 Une partie va du lobby à la victoire d'un seul camp : l'hôte règle la composition, lance la partie, chaque joueur reçoit un rôle secret, puis les camps s'affrontent jusqu'à ce qu'il n'en reste qu'un.
 

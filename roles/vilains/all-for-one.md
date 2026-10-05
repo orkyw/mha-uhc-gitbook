@@ -2,11 +2,26 @@
 description: >-
   Chef des Vilains, vole les alters de ses victimes
 icon: skull
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # All For One
 
-🔴 <mark style="color:red;">**Vilains**</mark> · 🩸 Groupe sanguin **B** · ❤️ **10 cœurs**
+![All For One](../../.gitbook/assets/banners/roles-vilains-all-for-one.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🔴 <mark style="color:red;">**Vilains**</mark> | 🩸 **B** | ❤️ **10** |
 
 ## ✨ Particularités
 
@@ -26,10 +41,22 @@ Si Brainless reste à moins de 20 blocs de lui pendant 10 minutes au total, le l
 
 ## 🌀 Pouvoirs passifs
 
-- Régénération : en passant sous 6 cœurs, il est soigné de 2 cœurs (1x/1min). En passant sous 3 cœurs, il est soigné de 4 cœurs (1x/3min).
-- Vol d'Alter : en tuant un joueur, il peut lui voler un pouvoir au choix avec l'objet Vol d'Alter. Il garde 3 alters maximum. Les alters volés fonctionnent sans les ressources de leur rôle d'origine. Certains pouvoirs ne peuvent pas être volés (par exemple Effacement, One For All, Durcissement, Adamantine Wings et les formes d'All Might).
-- Distribution : transfère définitivement un de ses alters à un allié vivant, avec l'objet Distribuer un Alter.
+### Régénération
 
-## ⚡ Pouvoir actif : Onde de Choc (1x/3min)
+En passant sous 6 cœurs, il est soigné de 2 cœurs (1x/1min). En passant sous 3 cœurs, il est soigné de 4 cœurs (1x/3min).
+
+### Vol d'Alter
+
+En tuant un joueur, il peut lui voler un pouvoir au choix avec l'objet Vol d'Alter. Il garde 3 alters maximum. Les alters volés fonctionnent sans les ressources de leur rôle d'origine. Certains pouvoirs ne peuvent pas être volés (par exemple Effacement, One For All, Durcissement, Adamantine Wings et les formes d'All Might).
+
+### Distribution
+
+Transfère définitivement un de ses alters à un allié vivant, avec l'objet Distribuer un Alter.
+
+## ⚡ Pouvoir actif
+
+### Onde de Choc
+
+<mark style="color:orange;">**⏱️ 1x/3min**</mark>
 
 Projette les ennemis à moins de 8 blocs et leur inflige 1 cœur.

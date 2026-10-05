@@ -2,11 +2,26 @@
 description: >-
   Jauge de température entre glace et feu, duo possible avec Endeavor
 icon: shield-halved
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Shoto
 
-🟢 <mark style="color:green;">**Héros**</mark> (duo secret possible) · 🩸 Groupe sanguin **O** · ❤️ **10 cœurs**
+![Shoto](../../.gitbook/assets/banners/roles-heros-shoto.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🟢 <mark style="color:green;">**Héros**</mark> (duo secret possible) | 🩸 **O** | ❤️ **10** |
 
 ## ✨ Particularités
 
@@ -16,11 +31,32 @@ icon: shield-halved
 
 ## 🌀 Pouvoirs passifs
 
-- Température : commence à 50 %. Monte de 1 % toutes les 5 secondes au soleil le jour, descend de 2 % par seconde dans l'eau. Sous 25 %, Lenteur I. Au-delà de 75 %, il perd sa Résistance.
-- Patinoire (`!patinoire` pour activer ou désactiver) : sous 30 %, les joueurs frappés reçoivent Lenteur II pendant 5 secondes et Shoto gagne Vitesse 50 % pendant 2 secondes.
-- Flamme (`!flamme` pour activer ou désactiver) : à partir de 70 %, ses coups enflamment la cible et chaque coup reçu monte sa température de 1 %.
+### Température
+
+Commence à 50 %. Monte de 1 % toutes les 5 secondes au soleil le jour, descend de 2 % par seconde dans l'eau. Sous 25 %, Lenteur I. Au-delà de 75 %, il perd sa Résistance.
+
+### Patinoire
+
+<mark style="color:blue;">**⌨️ `!patinoire` pour activer ou désactiver**</mark>
+
+Sous 30 %, les joueurs frappés reçoivent Lenteur II pendant 5 secondes et Shoto gagne Vitesse 50 % pendant 2 secondes.
+
+### Flamme
+
+<mark style="color:blue;">**⌨️ `!flamme` pour activer ou désactiver**</mark>
+
+À partir de 70 %, ses coups enflamment la cible et chaque coup reçu monte sa température de 1 %.
 
 ## ⚡ Pouvoirs actifs
 
-- Glace (1x/1min) : rayon de glace qui touche tous les joueurs sur son passage. Ils sont étourdis 3 secondes et subissent des dégâts chaque seconde pendant 5 secondes. Plus la température est basse, plus ils sont forts (jusqu'à 0,66 cœur par seconde à 0 %).
-- Feu (1x/1min) : boule de feu qui touche la première cible. Elle est projetée très loin, brûle 20 secondes sans pouvoir s'éteindre et subit des dégâts. Plus la température est haute, plus ils sont forts (jusqu'à 2 cœurs à 100 %).
+### Glace
+
+<mark style="color:orange;">**⏱️ 1x/1min**</mark>
+
+Rayon de glace qui touche tous les joueurs sur son passage. Ils sont étourdis 3 secondes et subissent des dégâts chaque seconde pendant 5 secondes. Plus la température est basse, plus ils sont forts (jusqu'à 0,66 cœur par seconde à 0 %).
+
+### Feu
+
+<mark style="color:orange;">**⏱️ 1x/1min**</mark>
+
+Boule de feu qui touche la première cible. Elle est projetée très loin, brûle 20 secondes sans pouvoir s'éteindre et subit des dégâts. Plus la température est haute, plus ils sont forts (jusqu'à 2 cœurs à 100 %).

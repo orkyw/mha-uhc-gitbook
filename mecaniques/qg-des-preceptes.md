@@ -2,9 +2,22 @@
 description: >-
   Le labyrinthe où se joue le sort d'Eri quand un Précepte la tue.
 icon: dungeon
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # QG des Préceptes
+
+![QG des Préceptes](../.gitbook/assets/banners/mecaniques-qg-des-preceptes.jpg)
 
 L'événement se déclenche quand un Précepte tue Eri. Sa mort est mise en attente pendant que les autres joueurs tentent de la sauver.
 

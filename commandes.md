@@ -2,9 +2,22 @@
 description: >-
   Toutes les commandes du chat et les interfaces en jeu.
 icon: terminal
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Commandes et interfaces
+
+![Commandes et interfaces](.gitbook/assets/banners/commandes.jpg)
 
 Toutes les commandes s'écrivent dans le chat et commencent par `!`. Elles ne sont jamais affichées aux autres joueurs.
 

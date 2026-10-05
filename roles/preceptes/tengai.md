@@ -2,18 +2,37 @@
 description: >-
   Pose des barrières qui soignent, sur lui ou un allié
 icon: mask
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Tengai
 
-🟣 <mark style="color:purple;">**Préceptes**</mark> · 🩸 Groupe sanguin **A** · ❤️ **10 cœurs**
+![Tengai](../../.gitbook/assets/banners/roles-preceptes-tengai.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🟣 <mark style="color:purple;">**Préceptes**</mark> | 🩸 **A** | ❤️ **10** |
 
 ## ✨ Particularités
 
 - Résistance 15 %.
 - Tant qu'il a moins de 6 cœurs, il récupère 0,5 cœur toutes les 6 secondes.
 
-## ⚡ Pouvoir actif : Barrière (1x/3min sur lui, 1x/3min sur un allié)
+## ⚡ Pouvoir actif
+
+### Barrière
+
+<mark style="color:orange;">**⏱️ 1x/3min sur lui, 1x/3min sur un allié**</mark>
 
 - Clic droit : Tengai reçoit une barrière.
 - Accroupi + clic droit : l'allié à 20 blocs ou moins qui a le moins de vie reçoit une barrière.

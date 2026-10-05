@@ -2,9 +2,23 @@
 description: >-
   Les 31 rôles du mode, classés par camp.
 icon: id-card
+layout:
+  width: wide
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Rôles
+
+![Rôles](../.gitbook/assets/banners/roles.jpg)
 
 Le mode compte 31 rôles. Chaque fiche ci-dessous reprend ce que le joueur lit en jeu avec `!role` : particularités, pouvoirs passifs, pouvoirs actifs et commandes.
 
@@ -16,6 +30,10 @@ Le mode compte 31 rôles. Chaque fiche ci-dessous reprend ce que le joueur lit e
 - Force, Résistance et Vitesse sont exprimées en pourcentage (voir Mécaniques communes).
 - Le groupe sanguin est une donnée de rôle utilisée par Stain.
 {% endhint %}
+
+## Les camps
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🟢 Héros</strong></td><td>Les rôles du camp Héros.</td><td><a href="../.gitbook/assets/cards/camp-heros.jpg">camp-heros.jpg</a></td><td><a href="heros/README.md">README.md</a></td></tr><tr><td><strong>🔴 Vilains</strong></td><td>Les rôles du camp Vilains.</td><td><a href="../.gitbook/assets/cards/camp-vilains.jpg">camp-vilains.jpg</a></td><td><a href="vilains/README.md">README.md</a></td></tr><tr><td><strong>🟣 Préceptes</strong></td><td>Les rôles du camp Préceptes.</td><td><a href="../.gitbook/assets/cards/camp-preceptes.jpg">camp-preceptes.jpg</a></td><td><a href="preceptes/README.md">README.md</a></td></tr><tr><td><strong>🟠 Solitaires</strong></td><td>Les rôles du camp Solitaire.</td><td><a href="../.gitbook/assets/cards/camp-solitaires.jpg">camp-solitaires.jpg</a></td><td><a href="solitaires/README.md">README.md</a></td></tr></tbody></table>
 
 ## Index des rôles
 

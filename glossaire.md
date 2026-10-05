@@ -2,9 +2,22 @@
 description: >-
   Le vocabulaire du mode.
 icon: book
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Glossaire
+
+![Glossaire](.gitbook/assets/banners/glossaire.jpg)
 
 | Terme | Définition |
 | --- | --- |

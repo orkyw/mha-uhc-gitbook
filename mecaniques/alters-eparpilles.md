@@ -2,9 +2,22 @@
 description: >-
   Cinq pouvoirs bonus à extraire sur la carte pendant la partie.
 icon: dna
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Alters éparpillés
+
+![Alters éparpillés](../.gitbook/assets/banners/mecaniques-alters-eparpilles.jpg)
 
 Cinq alters apparaissent un par un pendant la partie, aux minutes 7, 15, 25, 35 et 45, dans un ordre aléatoire. Le premier joueur qui en extrait un gagne un pouvoir supplémentaire, quel que soit son rôle.
 

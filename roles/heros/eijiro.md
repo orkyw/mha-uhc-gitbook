@@ -2,17 +2,36 @@
 description: >-
   Durcissement : grosse Résistance qui se transforme en attaque
 icon: shield-halved
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Eijiro
 
-🟢 <mark style="color:green;">**Héros**</mark> · 🩸 Groupe sanguin **O** · ❤️ **11 cœurs**
+![Eijiro](../../.gitbook/assets/banners/roles-heros-eijiro.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🟢 <mark style="color:green;">**Héros**</mark> | 🩸 **O** | ❤️ **11** |
 
 ## ✨ Particularités
 
 - Faiblesse I en permanence, sauf pendant Durcissement.
 
-## ⚡ Pouvoir actif : Durcissement (1x/10min)
+## ⚡ Pouvoir actif
+
+### Durcissement
+
+<mark style="color:orange;">**⏱️ 1x/10min**</mark>
 
 Le durcissement démarre à 500 points. Il perd 1 point par seconde et 5 points par coup reçu. Quand il tombe à 0, Eijiro reçoit Lenteur II pendant 30 secondes.
 

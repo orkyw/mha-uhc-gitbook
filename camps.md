@@ -2,9 +2,22 @@
 description: >-
   Les quatre camps, le duo secret et les changements de camp en cours de partie.
 icon: users
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Camps et équipes
+
+![Camps et équipes](.gitbook/assets/banners/camps.jpg)
 
 Le jeu compte quatre camps visibles et un camp secret. Chaque camp gagne en étant le dernier en vie.
 
@@ -15,6 +28,10 @@ Le jeu compte quatre camps visibles et un camp secret. Chaque camp gagne en éta
 | <mark style="color:purple;">**Préceptes**</mark> | Violet (`§5`, #AA00AA) | 4 | Éliminer tous les autres camps | La liste complète des Préceptes et le pseudo d'Eri |
 | <mark style="color:orange;">**Solitaire**</mark> | Or (`§6`, #FFAA00) | 2 | Gagner seul, en dernier survivant | Rien : chaque Solitaire joue pour lui-même, même contre l'autre Solitaire |
 | Duo Todoroki (secret) | Or (`§6`, #FFAA00) | 2 | Éliminer tous les autres joueurs à deux | Shoto et Endeavor se connaissent |
+
+## Les rôles par camp
+
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🟢 Héros</strong></td><td>Les rôles du camp Héros.</td><td><a href=".gitbook/assets/cards/camp-heros.jpg">camp-heros.jpg</a></td><td><a href="roles/heros/README.md">README.md</a></td></tr><tr><td><strong>🔴 Vilains</strong></td><td>Les rôles du camp Vilains.</td><td><a href=".gitbook/assets/cards/camp-vilains.jpg">camp-vilains.jpg</a></td><td><a href="roles/vilains/README.md">README.md</a></td></tr><tr><td><strong>🟣 Préceptes</strong></td><td>Les rôles du camp Préceptes.</td><td><a href=".gitbook/assets/cards/camp-preceptes.jpg">camp-preceptes.jpg</a></td><td><a href="roles/preceptes/README.md">README.md</a></td></tr><tr><td><strong>🟠 Solitaires</strong></td><td>Les rôles du camp Solitaire.</td><td><a href=".gitbook/assets/cards/camp-solitaires.jpg">camp-solitaires.jpg</a></td><td><a href="roles/solitaires/README.md">README.md</a></td></tr></tbody></table>
 
 ## 🟢 Héros
 

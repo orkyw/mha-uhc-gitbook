@@ -2,9 +2,22 @@
 description: >-
   Le lycée qui apparaît temporairement et cache des bonus d'information.
 icon: school
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Yuei
+
+![Yuei](../.gitbook/assets/banners/mecaniques-yuei.jpg)
 
 Le lycée Yuei apparaît sur la carte aux minutes 5, 15, 25 et 40, pendant 4 minutes à chaque fois, puis disparaît en rendant le terrain d'origine.
 

@@ -2,11 +2,26 @@
 description: >-
   Accumule du ciment pour écraser, soulever ou enfermer une cible
 icon: shield-halved
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Cementoss
 
-🟢 <mark style="color:green;">**Héros**</mark> · 🩸 Groupe sanguin **O** · ❤️ **14 cœurs**
+![Cementoss](../../.gitbook/assets/banners/roles-heros-cementoss.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🟢 <mark style="color:green;">**Héros**</mark> | 🩸 **O** | ❤️ **14** |
 
 ## ✨ Particularités
 
@@ -14,10 +29,19 @@ icon: shield-halved
 
 ## 🌀 Pouvoirs passifs
 
-- Poing de béton : s'il n'a frappé personne depuis 5 secondes, son prochain coup inflige +1 cœur.
-- Ciment : tant qu'il reste debout sur un de ses Blocs de Ciment, sa barre de ciment se remplit (environ 30 secondes pour la remplir).
+### Poing de béton
 
-## ⚡ Pouvoir actif : Ciment (1x/20s)
+S'il n'a frappé personne depuis 5 secondes, son prochain coup inflige +1 cœur.
+
+### Ciment
+
+Tant qu'il reste debout sur un de ses Blocs de Ciment, sa barre de ciment se remplit (environ 30 secondes pour la remplir).
+
+## ⚡ Pouvoir actif
+
+### Ciment
+
+<mark style="color:orange;">**⏱️ 1x/20s**</mark>
 
 Il faut au moins 25 de ciment. Cementoss choisit un joueur vivant à moins de 25 blocs (lui compris), puis une technique. Le ciment utilisé est dépensé.
 

@@ -2,11 +2,26 @@
 description: >-
   Portails, téléportation de groupe et arène du Néant
 icon: skull
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Black Mist
 
-🔴 <mark style="color:red;">**Vilains**</mark> · 🩸 Groupe sanguin **O** · ❤️ **10 cœurs**
+![Black Mist](../../.gitbook/assets/banners/roles-vilains-black-mist.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🔴 <mark style="color:red;">**Vilains**</mark> | 🩸 **O** | ❤️ **10** |
 
 ## ✨ Particularités
 
@@ -25,6 +40,20 @@ Néant Supérieur : le Néant s'ouvre dans une arène plus grande, où Black Mis
 
 ## ⚡ Pouvoirs actifs
 
-- Portail (1x/3min) : accroupi + clic droit pour poser un portail. Clic droit pour se téléporter au portail le plus proche. `!cleartp` supprime tous ses portails.
-- Attaque Surprise (1x/10min) : il choisit un joueur vivant ; lui et ses alliés proches (10 blocs) sont téléportés à 15 blocs de la cible.
-- Néant (1x/10min) : envoie les joueurs proches (40 blocs) dans le Néant pendant 90 secondes, avec au maximum 3 Vilains dont lui, 2 Héros et 2 autres joueurs. Le temps que le Néant s'ouvre, ils sont en spectateur. À la fin, chacun revient à sa position. Un nouveau clic droit referme le Néant plus tôt. Si Black Mist y meurt, le Néant se ferme et il revient à sa position avec toute sa vie. Personne ne peut tomber de l'arène.
+### Portail
+
+<mark style="color:orange;">**⏱️ 1x/3min**</mark>
+
+Accroupi + clic droit pour poser un portail. Clic droit pour se téléporter au portail le plus proche. `!cleartp` supprime tous ses portails.
+
+### Attaque Surprise
+
+<mark style="color:orange;">**⏱️ 1x/10min**</mark>
+
+Il choisit un joueur vivant ; lui et ses alliés proches (10 blocs) sont téléportés à 15 blocs de la cible.
+
+### Néant
+
+<mark style="color:orange;">**⏱️ 1x/10min**</mark>
+
+Envoie les joueurs proches (40 blocs) dans le Néant pendant 90 secondes, avec au maximum 3 Vilains dont lui, 2 Héros et 2 autres joueurs. Le temps que le Néant s'ouvre, ils sont en spectateur. À la fin, chacun revient à sa position. Un nouveau clic droit referme le Néant plus tôt. Si Black Mist y meurt, le Néant se ferme et il revient à sa position avec toute sa vie. Personne ne peut tomber de l'arène.

@@ -2,11 +2,26 @@
 description: >-
   One For All à puissance réglable, peut devenir Solitaire
 icon: shield-halved
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Deku
 
-🟢 <mark style="color:green;">**Héros**</mark> (peut devenir Solitaire) · 🩸 Groupe sanguin **O** · ❤️ **10 cœurs**
+![Deku](../../.gitbook/assets/banners/roles-heros-deku.jpg)
+
+| Camp | Groupe sanguin | Cœurs de départ |
+| --- | --- | --- |
+| 🟢 <mark style="color:green;">**Héros**</mark> (peut devenir Solitaire) | 🩸 **O** | ❤️ **10** |
 
 ## ✨ Particularités
 
@@ -19,8 +34,17 @@ icon: shield-halved
 
 ## ⚡ Pouvoirs actifs
 
-- Detroit Smash (1x/5min) : pendant 5 secondes, Deku inflige -50 % de dégâts mais chaque coup ajoute 1 point de charge. Il a ensuite 5 secondes pour frapper : ce coup inflige 0,5 cœur supplémentaire par point de charge.
-- One For All (1x/5min) : accroupi + clic droit pour changer de puissance.
+### Detroit Smash
+
+<mark style="color:orange;">**⏱️ 1x/5min**</mark>
+
+Pendant 5 secondes, Deku inflige -50 % de dégâts mais chaque coup ajoute 1 point de charge. Il a ensuite 5 secondes pour frapper : ce coup inflige 0,5 cœur supplémentaire par point de charge.
+
+### One For All
+
+<mark style="color:orange;">**⏱️ 1x/5min**</mark>
+
+Accroupi + clic droit pour changer de puissance.
 
 | Puissance | Effets | Contrecoup |
 | --- | --- | --- |

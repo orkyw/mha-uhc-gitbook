@@ -2,9 +2,22 @@
 description: >-
   Comment utiliser un pouvoir actif : étoile du Nether, clic droit et temps de recharge.
 icon: star
+layout:
+  title:
+    visible: false
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Objets de pouvoir
+
+![Objets de pouvoir](../.gitbook/assets/banners/mecaniques-objets-de-pouvoir.jpg)
 
 - Chaque pouvoir actif est une étoile du Nether nommée, reçue en début de partie.
 - Clic droit avec l'étoile en main pour utiliser le pouvoir. Certains pouvoirs ont une seconde action avec accroupi + clic droit.
