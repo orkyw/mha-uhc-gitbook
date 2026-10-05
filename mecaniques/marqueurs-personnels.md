@@ -1,6 +1,6 @@
 ---
 description: >-
-  Avec !marqueur (ou !mark), chaque joueur peut poser un marqueur au-dessus de la tête des autres joueurs en vie, pour noter ses soupçons.
+  Poser des marqueurs visibles par soi seul au-dessus des autres joueurs.
 icon: location-dot
 ---
 

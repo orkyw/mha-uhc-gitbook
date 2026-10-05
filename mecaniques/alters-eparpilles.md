@@ -1,6 +1,6 @@
 ---
 description: >-
-  Cinq alters apparaissent un par un pendant la partie, aux minutes 7, 15, 25, 35 et 45, dans un ordre aléatoire.
+  Cinq pouvoirs bonus à extraire sur la carte pendant la partie.
 icon: dna
 ---
 

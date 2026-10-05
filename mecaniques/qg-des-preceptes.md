@@ -1,6 +1,6 @@
 ---
 description: >-
-  L'événement se déclenche quand un Précepte tue Eri.
+  Le labyrinthe où se joue le sort d'Eri quand un Précepte la tue.
 icon: dungeon
 ---
 

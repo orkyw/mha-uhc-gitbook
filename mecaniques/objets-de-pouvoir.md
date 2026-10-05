@@ -1,7 +1,6 @@
 ---
 description: >-
-  Chaque pouvoir actif est une étoile du Nether nommée, reçue en début de partie.
-- Clic droit avec l'étoile en main pour utiliser le pouvoir.
+  Comment utiliser un pouvoir actif : étoile du Nether, clic droit et temps de recharge.
 icon: star
 ---
 

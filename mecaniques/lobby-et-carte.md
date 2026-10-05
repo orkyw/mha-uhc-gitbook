@@ -1,6 +1,6 @@
 ---
 description: >-
-  Lobby : une île flottante construite par le staff, avec une arène pour la cérémonie du podium.
+  L'île du lobby et la forêt sombre générée pour les parties.
 icon: map
 ---
 

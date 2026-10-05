@@ -1,6 +1,6 @@
 ---
 description: >-
-  Manger une pomme dorée donne une absorption pendant 2 min 30.
+  Absorption, pénalité en cas d'abus et pommes laissées à la mort.
 icon: apple-whole
 ---
 

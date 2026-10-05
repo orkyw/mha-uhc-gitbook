@@ -1,6 +1,6 @@
 ---
 description: >-
-  Le mode remplace les effets de potion vanilla par des pourcentages qui se cumulent entre toutes les sources (rôle, pouvoirs, alters).
+  Force, Résistance, Vitesse, Régénération et cœurs permanents, avec leurs plafonds.
 icon: percent
 ---
 
