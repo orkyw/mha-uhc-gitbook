@@ -27,6 +27,18 @@ mech_icons = {
     "pommes-dorees": "apple-whole", "alters-eparpilles": "dna", "yuei": "school",
     "qg-des-preceptes": "dungeon", "marqueurs-personnels": "location-dot", "lobby-et-carte": "map",
 }
+# Une description doit tenir sur une seule ligne, sinon l'en-tête YAML de la page est invalide
+mech_descriptions = {
+    "objets-de-pouvoir": "Comment utiliser un pouvoir actif : étoile du Nether, clic droit et temps de recharge.",
+    "effets-en-pourcentage": "Force, Résistance, Vitesse, Régénération et cœurs permanents, avec leurs plafonds.",
+    "combat": "Calcul des dégâts, recul, kills et assistances.",
+    "pommes-dorees": "Absorption, pénalité en cas d'abus et pommes laissées à la mort.",
+    "alters-eparpilles": "Cinq pouvoirs bonus à extraire sur la carte pendant la partie.",
+    "yuei": "Le lycée qui apparaît temporairement et cache des bonus d'information.",
+    "qg-des-preceptes": "Le labyrinthe où se joue le sort d'Eri quand un Précepte la tue.",
+    "marqueurs-personnels": "Poser des marqueurs visibles par soi seul au-dessus des autres joueurs.",
+    "lobby-et-carte": "L'île du lobby et la forêt sombre générée pour les parties.",
+}
 section_emojis = [("Particularités", "✨"), ("Pouvoirs passifs", "🌀"), ("Pouvoir passif", "🌀"),
                   ("Pouvoirs actifs", "⚡"), ("Pouvoir actif", "⚡"), ("Objet spécial", "⏳"),
                   ("Missions", "🎯"), ("Éveil", "🌑"), ("Lien avec Brainless", "🔗")]
@@ -142,8 +154,7 @@ for slug, icon in mech_icons.items():
         text = wrap(text, "Si l'inventaire est plein", "info")
     if slug == "qg-des-preceptes":
         text = wrap(text, "La barre d'action des joueurs", "info")
-    first = text.split("\n\n")[1].split(". ")[0].lstrip("- ").rstrip(".") + "."
-    write(path, front(icon, re.sub(r"`", "", first)) + text)
+    write(path, front(icon, mech_descriptions[slug]) + text)
 
 text = read("mecaniques/README.md")
 if not text.startswith("---"):
